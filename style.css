@@ -1,0 +1,91 @@
+/* Google Fonts fallback is not used, so the site works without extra files */
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #fff8f0;
+  color: #333;
+  margin: 0;
+}
+
+.bg-brown {
+  background-color: #5a3825;
+}
+
+.navbar-brand {
+  letter-spacing: 0.5px;
+}
+
+.hero {
+  background: linear-gradient(rgba(90, 56, 37, 0.75), rgba(90, 56, 37, 0.75)),
+              url("https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&w=1200&q=80");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 100px 20px;
+}
+
+.hero h1,
+.page-header h1 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.hero p,
+.page-header p {
+  font-size: 1.2rem;
+}
+
+.page-header {
+  background-color: #f3dfc8;
+  padding: 60px 20px;
+  border-bottom: 4px solid #d4a373;
+}
+
+h1,
+h2,
+h3 {
+  color: #5a3825;
+}
+
+.hero h1 {
+  color: white;
+}
+
+.info-card,
+.menu-card,
+.contact-form {
+  background-color: white;
+  border: 1px solid #ead7c3;
+  border-radius: 12px;
+  padding: 25px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+}
+
+.menu-card {
+  height: 100%;
+}
+
+.menu-card ul,
+.info-card ul {
+  padding-left: 20px;
+}
+
+.menu-card li,
+.info-card li {
+  margin-bottom: 8px;
+}
+
+.btn-brown {
+  background-color: #5a3825;
+  color: white;
+  border: none;
+}
+
+.btn-brown:hover {
+  background-color: #7b4f35;
+  color: white;
+}
+
+footer {
+  margin-top: 50px;
+}
