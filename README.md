@@ -6,7 +6,6 @@
 
 Purrfect Cat Café is a responsive website created for cat lovers who enjoy relaxing with a cup of coffee while spending time with friendly rescue cats. The website introduces visitors to the café, provides information about the menu, and offers an easy way to contact the café. The project focuses on creating a clean, welcoming and responsive user experience using HTML, CSS and Bootstrap.
 
----
 
 # Design
 
@@ -81,19 +80,6 @@ As a visitor, I want to:
 - Built using Bootstrap 5.
 - Optimised for desktop, tablet and mobile devices.
 
-## Menu Page
-
-- Drinks menu.
-- Snacks menu.
-- Cat Extras section.
-- Responsive Bootstrap cards.
-
-## Contact Page
-
-- Café contact information.
-- Opening hours.
-- Contact form.
-- Responsive two-column layout.
 
 ## Navigation
 
@@ -106,12 +92,12 @@ As a visitor, I want to:
 - Copyright information.
 - Displayed consistently on every page.
 
-## Responsive Design
 
-- Fully responsive layout.
-- Built using Bootstrap 5.
+## Wireframes
 
----
+### Homepage
+
+![Homepage Wireframe](docs/Project 1-Homepage Wireframe.png)
 
 # Screenshots
 
