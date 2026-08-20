@@ -97,7 +97,7 @@ As a visitor, I want to:
 
 ### Homepage
 
-![Homepage Wireframe](docs/Project 1-Homepage Wireframe.png)
+![Homepage Wireframe](docs/homepage-wirefrasme.jpg)
 
 # Screenshots
 
